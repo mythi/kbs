@@ -6,6 +6,7 @@ members = [
     "attestation-service/attestation-service",
     "attestation-service/verifier",
     "attestation-service/rvps",
+    "examples/secret_prov",
 ]
 
 [workspace.package]
